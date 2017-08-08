@@ -22,12 +22,14 @@ html, body {
   margin: 0;
   padding: 20px 0;
   float:top;
+  text-align:center;
 
 }
 
 .nav li {
   color: #fff;
   font-family: 'Raleway', sans-serif;
+  margin: 0 50px 0 50px;
   font-weight: 600;
   font-size: 12px;
   display:inline;
